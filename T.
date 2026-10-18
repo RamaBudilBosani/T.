@@ -1,0 +1,7 @@
+marks = [70, 80]
+
+def replace_marks():
+    return [90, 100]
+
+marks = replace_marks()
+print(marks)
